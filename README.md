@@ -45,3 +45,5 @@ Every donation is deeply appreciated and will help in the ongoing development of
 Stay connected and receive the latest updates:
 
 [![GitHub](https://img.shields.io/badge/GitHub-W0rthlessS0ul-181717?style=flat&logo=github&logoColor=white)](https://github.com/W0rthlessS0ul)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FW0rthlessS0ul%2FHackRF-Portapack-WAV-Creator&countColor=%232ccce4&style=flat-square)
+
