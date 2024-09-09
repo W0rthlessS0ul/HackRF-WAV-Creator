@@ -33,7 +33,7 @@ The converted **.wav** file will be created in the same folder as the original *
 -----
 
 ## ❤️ Thank You for Your Support!
-If you appreciate this project and would like to show your support, consider buying me a cup of coffee! ☕ 
+If you would like to show your support, you can star my repository or follow me! If you appreciate this project, consider buying me a cup of coffee to keep the energy flowing! ☕ Thank you for your support!
 
 **BTC Address:** `3PpBpNs1wXkhA93g5tfpMf4qierz4m9BCW` (this is a **SegWit** address)
 
