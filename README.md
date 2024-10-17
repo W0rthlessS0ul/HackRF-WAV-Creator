@@ -1,5 +1,4 @@
 # 🌟 HackRF Portapack WAV Creator 🌟
------
 Welcome to the **HackRF Portapack WAV Creator** repository! 🎉
 This tool is designed for creating .wav files specifically for the **HackRF One** paired with the **Portapack**. 
 
