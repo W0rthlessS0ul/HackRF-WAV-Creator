@@ -21,6 +21,7 @@ You can choose one of the following installation methods:
 
 1. **Python Method**: 
    - Install Python on your system.
+   - Enter the command `pip install -r requirements.txt` to begin the installation of `PyQt5`.
    - Run the `HackRF WAV Creator.py` file from the repository.
    - Ensure that the `ffmpeg.exe` file is in the same folder as the script (*extracted from the `ffmpeg.rar` archive*). 
 
