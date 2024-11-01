@@ -1,4 +1,10 @@
-# 🌟 HackRF Portapack WAV Creator 🌟
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/176677387" width="150" height="auto" />
+  <h1> 🌟 HackRF Portapack WAV Creator 🌟 </h1>
+</div>
+
+-----
+
 Welcome to the **HackRF Portapack WAV Creator** repository! 🎉
 This tool is designed for creating .wav files specifically for the **HackRF One** paired with the **Portapack**. 
 
