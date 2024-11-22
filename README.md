@@ -11,6 +11,7 @@ This tool is designed for creating .wav files specifically for the **HackRF One*
 ## 📚 Table of Contents
 - [🚀 How Can I Utilize This?](#-how-can-i-utilize-this)
 - [📦 How to Install?](#-how-to-install)
+- [📸 Screenshots](#-screenshots)
 - [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
 - [🌐 Follow Me for Updates](#-follow-me-for-updates)
 
@@ -34,6 +35,14 @@ You can choose one of the following installation methods:
    - Download the precompiled **.exe** file from the **Releases** section. (*This method does not require the `ffmpeg.exe` to be in the same folder*)
 
 ### The converted .wav file will be created in the same folder as the original .mp3 file.
+
+-----
+
+## 📸 Screenshots
+
+![Dark](images/WAV_Creator_dark.jpg)
+
+![Light](images/WAV_Creator_light.jpg)
 
 -----
 
