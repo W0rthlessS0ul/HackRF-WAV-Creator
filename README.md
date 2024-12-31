@@ -12,7 +12,7 @@ This tool is designed for creating .wav files specifically for the **HackRF One*
 - [🚀 How Can I Utilize This?](#-how-can-i-utilize-this)
 - [📦 How to Install?](#-how-to-install)
 - [📸 Screenshots](#-screenshots)
-- [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
+- [❤️ Support the project](#-support-the-project)
 - [🌐 Follow Me for Updates](#-follow-me-for-updates)
 
 -----
@@ -46,7 +46,7 @@ You can choose one of the following installation methods:
 
 -----
 
-## ❤️ Thank You for Your Support!
+## ❤️ Support the project
 If you would like to show your support, you can star my repository or follow me! If you appreciate this project, consider buying me a cup of coffee to keep the energy flowing! ☕ Thank you for your support!
 
 
