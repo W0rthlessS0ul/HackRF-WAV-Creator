@@ -62,6 +62,13 @@ If you would like to show your support, you can star my repository or follow me!
 
 **DOGE Address:** `DBzAvD62yQUkP4Cb7C5LuFYQEierF3D3oG`
 
+<a href="https://nowpayments.io/donation?
+  api_key=6370NCF-SXJ4MMC-N71CVMS-6G52PW9"
+  target="_blank" rel="noreferrer noopener">
+  <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" 
+  alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
+</a>
+
 Every donation is deeply appreciated and will help in the ongoing development of this project!
 
 -----
@@ -75,4 +82,5 @@ Every donation is deeply appreciated and will help in the ongoing development of
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=W0rthlessS0ul/HackRF-WAV-Creator&type=date&legend=top-left" />
  </picture>
 </a>
+
 
